@@ -1,0 +1,27 @@
+body {
+    background-image: url("images/bgGym.jpeg");
+    background-repeat: no-repeat, no-repeat;
+    background-size: cover;
+    height: 100vh;
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+    color: #ffff !important;
+    font-family: 'Bebas Neue';
+}
+
+.background {
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 100vh;
+    width: 100vw;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center
+}
+
+#time {
+    font-size: 45pt
+}
