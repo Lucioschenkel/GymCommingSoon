@@ -22,6 +22,20 @@ body {
     justify-content: center
 }
 
+h1 {
+    font-size: 100px;
+    margin-top: -50px
+}
+
+span {
+    color: #fdc236
+}
+
+h3 {
+    font-size: 58px;
+    letter-spacing: 0.1em;
+}
+
 #time {
-    font-size: 45pt
+    font-size: 55pt
 }
